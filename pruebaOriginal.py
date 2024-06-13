@@ -1,1 +1,1 @@
-print("Hola esto es para la prueba 1 del repositorio original")
+print("Hola y ahora esto oara la rama 2 ")
